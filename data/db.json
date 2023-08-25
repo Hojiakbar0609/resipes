@@ -1,0 +1,44 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Gruzincha tovuq«Shkmeruli»",
+      "ingredients": [
+        "1 Carrot",
+        "1 Leek",
+        "200g Tofu",
+        "300ml Veg stock"
+      ],
+      "method": "Qadam 1: Tovuq sonini terisidan tozalab, salfetkada quritamiz. Qadam 2: Tovuq soniga tuz, murch va paprika qo’shib, yaxshilab aralashtiramiz. Ziravorlar go’shtning barcha tomonini qoplashi kerak. 2. Add the rest of the ingredients and mix well. 3. Place the mixture in a large bowl and cover with a lid. 4. Place the lid on the oven and cook for 40 minutes. 5. Serve with a slaw of your choice",
+      "cookingTime": "45 minutes",
+      "image": "https://zira.uz/wp-content/uploads/2023/07/kurica-s-chesnokom-2.jpg"
+  },
+  {
+      "id": "2",
+      "title": "Lavashdan ruletchalar",
+      "ingredients": [
+          "1 Base",
+          "Tomata pasata",
+          "1 Green pepper",
+          "100g Mushrooms"
+      ],
+      "method": "Qadam 1: Bodringni ingichka somoncha shaklida to’g’raymiz. Qadam 2: Tuxum va qisqichbaqa tayoqchalarini mayda kubik shaklida to’g’raymiz. Qadam 3: 2 ta lavash xamirini ustma-ust qo’yamiz. Mayonez surtamiz.",
+      "cookingTime": "35 minutes",
+      "image": "https://zira.uz/wp-content/uploads/2023/07/sloboda.-lavashiki.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Tomat qaylasi ostida go’shtli «Atirgullar»",
+      "ingredients": [
+        "1 Onion",
+        "1 Block of Feta",
+        "Olives",
+        "Tomatoes",
+        "Olive Oil"
+      ],
+      "method": "Qadam 1: Barcha masalliqlarni tayyorlaymiz. Qadam 2: Xamir Tayyorlaymiz. Chuqur idishda tuxum, suv, o’simlik yog’i va tuzni aralashtiramiz.",
+      "cookingTime": "35 minutes",
+      "image": "https://zira.uz/wp-content/uploads/2022/10/myasnye_rozochki_v_tomatnom_souse_19.jpg"
+    }
+  ]
+}
